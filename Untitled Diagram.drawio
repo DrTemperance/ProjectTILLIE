@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-26T04:37:34.687Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="_juXsWDWjhr5bSDO6vtd" version="21.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-26T04:38:48.201Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="AbkyUkt8qbZSTUMYE-dK" version="21.6.9" type="github">
   <diagram name="Page-1" id="sQd0xjiJjNnlhren32SC">
     <mxGraphModel dx="2657" dy="1609" grid="1" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="1" shadow="0">
       <root>
@@ -10,7 +10,7 @@
             <mxPoint x="-1430" y="-1080" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cdAnJ8Io3C3Vu_aWuTNc-43" value="Keep Driving" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HXRUX7Bo3C5i7UGBddSv-70">
+        <mxCell id="cdAnJ8Io3C3Vu_aWuTNc-43" value="&lt;u&gt;Keep Driving&lt;/u&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HXRUX7Bo3C5i7UGBddSv-70">
           <mxGeometry x="-0.3611" relative="1" as="geometry">
             <mxPoint x="8" as="offset" />
           </mxGeometry>
@@ -24,12 +24,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="cdAnJ8Io3C3Vu_aWuTNc-38" value="+ Flashlight&lt;br&gt;=&amp;gt; + Info" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="cdAnJ8Io3C3Vu_aWuTNc-37">
+        <mxCell id="cdAnJ8Io3C3Vu_aWuTNc-38" value="&lt;i style=&quot;font-size: 9px;&quot;&gt;+ Flashlight&lt;br style=&quot;font-size: 9px;&quot;&gt;&lt;/i&gt;=&amp;gt; + Info" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="cdAnJ8Io3C3Vu_aWuTNc-37">
           <mxGeometry x="-0.7273" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-1" y="42" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cdAnJ8Io3C3Vu_aWuTNc-59" value="Kidnapped (May)&lt;br&gt;~ Taser" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="cdAnJ8Io3C3Vu_aWuTNc-37">
+        <mxCell id="cdAnJ8Io3C3Vu_aWuTNc-59" value="&lt;b&gt;Kidnapped (May)&lt;br&gt;&lt;/b&gt;&lt;i&gt;~ Taser&lt;/i&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="cdAnJ8Io3C3Vu_aWuTNc-37">
           <mxGeometry x="-0.5508" y="-1" relative="1" as="geometry">
             <mxPoint y="-9" as="offset" />
           </mxGeometry>
@@ -44,7 +44,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="cdAnJ8Io3C3Vu_aWuTNc-28" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Kidnapped (Mike)&lt;br style=&quot;font-size: 9px;&quot;&gt;~ Taser&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="cdAnJ8Io3C3Vu_aWuTNc-25">
+        <mxCell id="cdAnJ8Io3C3Vu_aWuTNc-28" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;&lt;b&gt;Kidnapped (Mike)&lt;br style=&quot;font-size: 9px;&quot;&gt;&lt;/b&gt;&lt;i&gt;~ Taser&lt;/i&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="cdAnJ8Io3C3Vu_aWuTNc-25">
           <mxGeometry x="-0.6866" relative="1" as="geometry">
             <mxPoint x="45" y="30" as="offset" />
           </mxGeometry>
@@ -57,19 +57,19 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="cdAnJ8Io3C3Vu_aWuTNc-29" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Kidnapped (May)&lt;br&gt;- Taser&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="cdAnJ8Io3C3Vu_aWuTNc-24">
+        <mxCell id="cdAnJ8Io3C3Vu_aWuTNc-29" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;Kidnapped (May)&lt;br&gt;&lt;/b&gt;&lt;i&gt;- Taser&lt;/i&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="cdAnJ8Io3C3Vu_aWuTNc-24">
           <mxGeometry x="-0.8528" relative="1" as="geometry">
-            <mxPoint y="67" as="offset" />
+            <mxPoint y="37" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cdAnJ8Io3C3Vu_aWuTNc-39" value="X Flashlight" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="cdAnJ8Io3C3Vu_aWuTNc-24">
+        <mxCell id="cdAnJ8Io3C3Vu_aWuTNc-39" value="&lt;i&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;X Flashlight&lt;/font&gt;&lt;/i&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="cdAnJ8Io3C3Vu_aWuTNc-24">
           <mxGeometry x="-0.7772" y="-1" relative="1" as="geometry">
-            <mxPoint y="25" as="offset" />
+            <mxPoint x="4" y="50" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cdAnJ8Io3C3Vu_aWuTNc-58" value="/lock out of good/" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="cdAnJ8Io3C3Vu_aWuTNc-24">
+        <mxCell id="cdAnJ8Io3C3Vu_aWuTNc-58" value="&lt;i&gt;/lock out of good/&lt;/i&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="cdAnJ8Io3C3Vu_aWuTNc-24">
           <mxGeometry x="-0.6893" relative="1" as="geometry">
-            <mxPoint x="2" y="33" as="offset" />
+            <mxPoint x="2" y="58" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="2" value="Entry Drive" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
@@ -105,14 +105,14 @@
         <mxCell id="cdAnJ8Io3C3Vu_aWuTNc-41" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=async;endFill=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="HXRUX7Bo3C5i7UGBddSv-27" target="cdAnJ8Io3C3Vu_aWuTNc-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cdAnJ8Io3C3Vu_aWuTNc-42" value="Stop at Gas Station" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="cdAnJ8Io3C3Vu_aWuTNc-41">
+        <mxCell id="cdAnJ8Io3C3Vu_aWuTNc-42" value="&lt;u&gt;Stop at Gas Station&lt;/u&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="cdAnJ8Io3C3Vu_aWuTNc-41">
           <mxGeometry x="0.0889" relative="1" as="geometry">
             <mxPoint y="-12" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cdAnJ8Io3C3Vu_aWuTNc-49" value="/locked out of best/" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="cdAnJ8Io3C3Vu_aWuTNc-41">
+        <mxCell id="cdAnJ8Io3C3Vu_aWuTNc-49" value="&lt;i&gt;/locked out of best/&lt;/i&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="cdAnJ8Io3C3Vu_aWuTNc-41">
           <mxGeometry x="0.3252" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint y="-8" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="HXRUX7Bo3C5i7UGBddSv-27" value="&lt;b&gt;Car:&lt;br&gt;&lt;/b&gt;&lt;i&gt;Follower&lt;/i&gt;" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#ffe6cc;strokeColor=#d79b00;size=27;" parent="1" vertex="1">
@@ -131,7 +131,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="HXRUX7Bo3C5i7UGBddSv-36" value="Speed Up" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="HXRUX7Bo3C5i7UGBddSv-36" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Speed Up&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-1747" y="-1020" width="60" height="25" as="geometry" />
         </mxCell>
         <mxCell id="HXRUX7Bo3C5i7UGBddSv-42" value="&lt;p style=&quot;line-height: 130%;&quot;&gt;&lt;b&gt;Choices:&lt;br&gt;&lt;/b&gt;Speed Up =&amp;gt; &lt;i&gt;&lt;u&gt;Death&lt;/u&gt;&lt;/i&gt;&lt;br&gt;Gas Station =&amp;gt; Good&lt;u&gt;&lt;br&gt;&lt;/u&gt;Keep Driving =&amp;gt;&amp;nbsp;&lt;u style=&quot;border-color: var(--border-color);&quot;&gt;Best&lt;/u&gt;&lt;br&gt;&lt;br&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;b&gt;Items:&lt;/b&gt;&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;* Loose Cigarette (Good)&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;* Taser [0]% (Best)&lt;/span&gt;&lt;br&gt;&lt;/font&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=default;strokeWidth=2;gradientColor=none;rounded=0;glass=1;shadow=0;" parent="1" vertex="1">
